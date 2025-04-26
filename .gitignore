@@ -1,0 +1,7 @@
+__pycache__/
+
+# These are all for testing
+certs/
+file/
+password.txt
+*.test
